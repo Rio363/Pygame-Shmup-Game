@@ -1,3 +1,6 @@
+# Art from Kenney -> www.kenney.nl
+# Music from opengameart.org -> tgfcoder-FrozenJam-SeamlessLoop.ogg
+
 import pygame
 from sprites import *
 

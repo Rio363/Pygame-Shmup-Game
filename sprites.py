@@ -13,7 +13,7 @@ class Player(pygame.sprite.Sprite):
 		self.rect.centerx = WIDTH / 2
 		self.rect.bottom = HEIGHT - 10
 
-		self.lives = 1
+		self.lives = 3
 
 		self.speedx = 0
 		self.speedy = 0
