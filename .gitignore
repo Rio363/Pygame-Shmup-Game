@@ -1,0 +1,6 @@
+__pycache__/
+SpaceShooters/
+venv/
+data.bak
+data.dat
+data.dir
